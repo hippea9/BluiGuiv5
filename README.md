@@ -19,3 +19,4 @@ If you forget your bind, do not fear, hold down the ctrl key, and your bind list
 That's all there is to it. 
 The only thing that doesn't completely work at the moment is the help button in the options submenu, other than that, everything should work as explained. 
 If you find any bugs or problems, let me know.
+And if you would like to see the source code, let me know, though it's not too pretty.
